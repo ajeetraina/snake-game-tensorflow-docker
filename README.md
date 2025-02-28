@@ -10,7 +10,7 @@
 
 ## Overview
 
-This project demonstrates an AI-powered Snake game with TensorFlow.js. Game allowing users to either play manually or let the AI control the snake.
+An interactive Snake game that leverages TensorFlow.js for AI-powered gameplay. Players can choose between playing manually or allowing an AI model to control the snake.
 
 <img src="https://github.com/user-attachments/assets/6657078f-be16-4679-bb0a-565e6c8e1d0a" width="300">
 
